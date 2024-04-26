@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Here are some of my favorite projects I've been able to contribute too. If you'd like to see more explore my history and if you're trying to get into contact with me, feel free to use the email address you can easily find as I try to check it often. 
+
 <!--
 **supersimple33/supersimple33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
